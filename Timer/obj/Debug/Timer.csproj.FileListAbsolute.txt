@@ -1,0 +1,10 @@
+D:\UIT\LTTQ\Tuan5\Timer\Timer\bin\Debug\Timer.exe.config
+D:\UIT\LTTQ\Tuan5\Timer\Timer\bin\Debug\Timer.exe
+D:\UIT\LTTQ\Tuan5\Timer\Timer\bin\Debug\Timer.pdb
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.exe
+D:\UIT\LTTQ\Tuan5\Timer\Timer\obj\Debug\Timer.pdb
